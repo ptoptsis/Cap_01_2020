@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.humanasset.lms2020",
+    "appname": "HA eLearning",
+    "desktopappname": "HA eLearning Desktop",
     "versioncode": 3800,
     "versionname": "3.8.0",
     "cache_update_frequency_usually": 420000,
@@ -57,30 +57,19 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https:\/\/lms.humanasset.com",
+    "sitename": "Human Asset LMS",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
+    "privacypolicy": "https:\/\/www.humanasset.com\/?page_id=12144",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
