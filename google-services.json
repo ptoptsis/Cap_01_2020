@@ -1,132 +1,42 @@
 {
   "project_info": {
-    "project_number": "219028530090",
-    "firebase_url": "https://lms2-ea507.firebaseio.com",
-    "project_id": "lms2-ea507",
-    "storage_bucket": "lms2-ea507.appspot.com"
+    "project_number": "694767596569",
+    "firebase_url": "https://moodlemobile-push.firebaseio.com",
+    "project_id": "moodlemobile-push",
+    "storage_bucket": "moodlemobile-push.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:219028530090:android:69cddd07b651b4fc2d01d3",
+        "mobilesdk_app_id": "1:694767596569:android:a4cdad4d168c9d1a",
         "android_client_info": {
-          "package_name": "com.humanasset.lms2020"
+          "package_name": "com.moodle.moodlemobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "219028530090-8ih2vdkt762fu6s5d2bvf05dde1fn5pl.apps.googleusercontent.com",
+          "client_id": "694767596569-icveqqa2n56oh44l6ev1dr2oh67nh8il.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDw9YmIPvDOlbmQWdkbh_dZDS8KsYXXHks"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "219028530090-8ih2vdkt762fu6s5d2bvf05dde1fn5pl.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:219028530090:android:81a5eee0b543c5ae",
-        "android_client_info": {
-          "package_name": "com.humanasset.lmsall"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "219028530090-8ih2vdkt762fu6s5d2bvf05dde1fn5pl.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDw9YmIPvDOlbmQWdkbh_dZDS8KsYXXHks"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "219028530090-8ih2vdkt762fu6s5d2bvf05dde1fn5pl.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:219028530090:android:1a7ff60ef478a412",
-        "android_client_info": {
-          "package_name": "com.humanasset.lmsallnew"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "219028530090-f3cqq90kl8pii98hc9np72h96l10louj.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.humanasset.lmsallnew",
-            "certificate_hash": "328a8b24f5def339a842b4e2137622d3c9a1267e"
-          }
+          "current_key": "AIzaSyCb2zogu0P_aZ2LNgdwzshWExITPKTXJyk"
         },
         {
-          "client_id": "219028530090-8ih2vdkt762fu6s5d2bvf05dde1fn5pl.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDw9YmIPvDOlbmQWdkbh_dZDS8KsYXXHks"
+          "current_key": "AIzaSyDRT1HwT0gSsTty0whOVtoNKAh8SPrJXLE"
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 1
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "219028530090-8ih2vdkt762fu6s5d2bvf05dde1fn5pl.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:219028530090:android:8c477a67932da833",
-        "android_client_info": {
-          "package_name": "cy.com.cap.academy1"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "219028530090-8ih2vdkt762fu6s5d2bvf05dde1fn5pl.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDw9YmIPvDOlbmQWdkbh_dZDS8KsYXXHks"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "219028530090-8ih2vdkt762fu6s5d2bvf05dde1fn5pl.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
         }
       }
     }
