@@ -63,8 +63,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "https:\/\/lms.humanasset.com",
-    "sitename": "Human Asset LMS",
+    "siteurl": "",
+    "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
